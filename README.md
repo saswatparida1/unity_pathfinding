@@ -1,23 +1,5 @@
 # unity_pathfinding
-Cooperative a * pathfinding 
-#
-Script to intialise........
-#
-Buttonmovement should be added to canvas item...
-#
-cam should be added to camera...
-#
-unit should be added to agent.......
-#
-grid should be added to path(a new gameobject should be created to name as path)....
-#
-pathfinding ,path request manager is for finding path.....
-#
-as all are interlinked...
-#
-should place in asset file...>>
-#
-#
+
     <<<<<THANK YOU>>>>>
 
 
